@@ -1,4 +1,3 @@
-# landing-page-project
 <h1 align="center">The Landing Page</h1>
 <h3 align="center">Goal is to create a web page while following certain guidelines provided.</h3>
 
@@ -7,3 +6,6 @@
 
 **Credits** <br>
 This section is dedicated to giving credit where credit is due:
+- All photos in the home banner downloaded from <a href="http://www.freepik.com/">Freepik</a>
+- Icons were all found and used from <a href="www.streamlinehq.com">Streamline</a>
+- Photo used for Quote Parody section is by <a href="https://www.life.com/history/jfk-classic-photos-of-an-american-political-icon-1947-1963/">LIFE</a>
