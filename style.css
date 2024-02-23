@@ -1,0 +1,33 @@
+* {
+    box-sizing: border-box;
+}
+.headingBarMain {
+    background-color: #333;
+}
+.headingBarMain a {
+    color: white;
+    text-decoration: none;
+}
+/* Change color on hover */
+.headingBarMain a:hover {
+    background-color: #ddd;
+    color: black;
+}
+.headingBarMain button {
+
+}
+.logoFull {
+    max-width: fit-content;
+    height: 75px;
+}
+.mainHomeBanner {
+    background-color: #ddd;
+}
+#mainHomePhoto {
+    max-width: fit-content;
+    height: 175px;
+}
+.footer {
+    background-color: #f1f1f1;
+    padding: 10px;
+}
