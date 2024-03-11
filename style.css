@@ -72,6 +72,50 @@
     font-size: 18px;
     padding: 15px;
 }
+.investTitle {
+    font-family: Arial, Helvetica, sans-serif;
+    color: #1f2937;
+    display: flex;
+    align-self:auto;
+    text-align: center;
+    flex-direction: column; 
+}
+.investTitle > h2 {
+    font-size: 36px;
+}
+.investmentChoiceMainBlock {
+    background-color: aquamarine;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    padding: 25px;
+    flex-direction: row;   
+}
+.investmentChoiceSmallBlock {
+    background-color: white;
+    display: flex;
+    width: 275px;
+    height: 320px;
+    margin: 15px;
+    
+}
+.investmentChoiceSmallBlock > a > img {
+    width: 200px;
+    height: fit-content;
+    padding: 15px;
+    /* insert color for vector */
+}
+.investmentChoiceSmallBlock > a {
+    font-family: Arial, Helvetica, sans-serif;
+    text-decoration: none;
+    color: #1f2937;
+    /* background-color: red; */
+    display: flex;
+    justify-content: center; 
+    align-items: center;   
+    flex-direction: column; 
+    text-align: center;
+}
 footer {
     background-color: #1f2937;
     padding: 10px;
