@@ -156,20 +156,21 @@
     font-weight: bolder;
 }
 .signupBlock {
-    background-color: #3882f6;
-    max-width: fit-content;
     display: flex;
     justify-content: center;
     align-items: center;
+    background-color: #3882f6;
+    max-width: 1000px;
     color: white;
     font-family: Arial, Helvetica, sans-serif;
     margin: 45px;
     padding: 25px;
 }
 .signupText {
-    display: inline-block;
+    display: flex;
     margin: auto;
     flex-direction: column;
+    
 }
 .signupBlock > button {
     display: flex;
@@ -181,6 +182,7 @@
     font-weight: bold;
     font-size: 18px;
     padding: 15px;
+    margin-left: 45px;
 }
 footer {
     background-color: #1f2937;
@@ -199,9 +201,7 @@ footer {
     margin: 10px;
     line-height: 2px;
 }
-.authorSection > h4 {
-    /*margin-right: 10px;*/
-}
+
 .contactInformationSection {
     display: flex;
     justify-content: center;
@@ -219,5 +219,6 @@ footer {
 .contactLinks > a > img{
     height: fit-content;
     width: 70px;
-    /*color: #ddd;*/
+    filter: invert(96%) sepia(1%) saturate(2410%) hue-rotate(301deg) brightness(123%) contrast(73%);
+   
 }
