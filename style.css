@@ -170,7 +170,7 @@
     display: flex;
     margin: auto;
     flex-direction: column;
-    
+    align-items: center;
 }
 .signupBlock > button {
     display: flex;
@@ -218,7 +218,7 @@ footer {
 }
 .contactLinks > a > img{
     height: fit-content;
-    width: 70px;
+    width: 50px;
     filter: invert(96%) sepia(1%) saturate(2410%) hue-rotate(301deg) brightness(123%) contrast(73%);
    
 }
